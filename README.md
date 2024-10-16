@@ -15,3 +15,19 @@ OpenCV for video capture and frame processing.
 dlib for detecting facial landmarks.
 NumPy for numerical computations.
 pygame for playing audio alerts.
+
+Usage:
+The system will start capturing video from your webcam.
+It will track your face and monitor eye blinks.
+If prolonged eye closure is detected (a sign of drowsiness), an audio alert will be played to notify you.
+
+Customization:
+You can replace the default alert sound by replacing the "beep.mp3" file in the code with your own audio file.
+
+Future Improvements:
+Face tracking under low-light conditions.
+Improved accuracy for different facial structures.
+Support for multiple alert types (visual, haptic feedback).
+
+Contact:
+For questions or contributions, feel free to contact me at [your.email@example.com].
