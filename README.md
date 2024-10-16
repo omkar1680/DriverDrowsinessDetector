@@ -40,4 +40,4 @@ Support for multiple alert types (visual, haptic feedback).
 
 Contact:
 
-For questions or contributions, feel free to contact me at [your.email@example.com].
+For questions or contributions, feel free to contact me at theonlyone1680@gmail.com
