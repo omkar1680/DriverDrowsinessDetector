@@ -1,4 +1,6 @@
 # DriverDrowsinessDetector
+Facial Landmark Detector File: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+
 Overview:
 
 This project implements a real-time drowsiness detection system using computer vision and facial landmark detection. The system captures video input, tracks eye movements, and alerts the user if signs of drowsiness are detected. This project can be particularly useful in scenarios like driver fatigue monitoring or other alertness detection systems.
