@@ -1,8 +1,10 @@
 # DriverDrowsinessDetector
-Overview
+Overview:
+
 This project implements a real-time drowsiness detection system using computer vision and facial landmark detection. The system captures video input, tracks eye movements, and alerts the user if signs of drowsiness are detected. This project can be particularly useful in scenarios like driver fatigue monitoring or other alertness detection systems.
 
-Features
+Features:
+
 Real-time Video Processing: Captures video from a webcam and processes frames to detect facial landmarks.
 Eye Blink Detection: Calculates the Eye Aspect Ratio (EAR) to determine blinking patterns.
 Drowsiness Alerts: Plays an audio alert when drowsiness or extended eye closure is detected.
