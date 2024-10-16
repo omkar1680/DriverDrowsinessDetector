@@ -28,7 +28,7 @@ If prolonged eye closure is detected (a sign of drowsiness), an audio alert will
 
 Customization:
 
-You can replace the default alert sound by replacing the "beep.mp3" file in the code with your own audio file.
+You can replace the default alert sound by replacing the "beep1.mp3" file in the code with your own audio file.
 
 
 Future Improvements:
