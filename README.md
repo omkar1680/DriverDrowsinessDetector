@@ -1,16 +1,15 @@
 # DriverDrowsinessDetector
-This project is a Python script that identifies the alertness state of a vehicle operator and notifies upon crossing critical threshold.
+Overview
+This project implements a real-time drowsiness detection system using computer vision and facial landmark detection. The system captures video input, tracks eye movements, and alerts the user if signs of drowsiness are detected. This project can be particularly useful in scenarios like driver fatigue monitoring or other alertness detection systems.
 
-Landmark Features: computer vision, facial landmark detection, customisable audio alerts.
-
-Libraries Used:
-cv2 (OpenCV) for video capture and image processing.
-dlib for facial landmark detection.
-numpy for mathematical operations.
-pygame for playing audio alerts when drowsiness is detected.
-
-Functionality:
-Captures real-time video from the webcam using OpenCV.
-Detects facial landmarks using dlib’s shape_predictor_68_face_landmarks.dat.
-Computes eye aspect ratio to detect if the user is blinking, drowsy, or active.
-Plays an alert sound if drowsiness is detected.
+Features
+Real-time Video Processing: Captures video from a webcam and processes frames to detect facial landmarks.
+Eye Blink Detection: Calculates the Eye Aspect Ratio (EAR) to determine blinking patterns.
+Drowsiness Alerts: Plays an audio alert when drowsiness or extended eye closure is detected.
+Customizable: Replace the alert sound with any audio file of your choice.
+Technologies Used
+Python 3.x
+OpenCV for video capture and frame processing.
+dlib for detecting facial landmarks.
+NumPy for numerical computations.
+pygame for playing audio alerts.
