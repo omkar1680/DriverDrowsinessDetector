@@ -1,5 +1,5 @@
 # DriverDrowsinessDetector
-Facial Landmark Detector: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+Facial Landmark Detector File: https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
 Overview:
 
